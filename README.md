@@ -1,6 +1,6 @@
 ### 1. Compile the model
 
- Coompile and save model in the folder arabic-poetry-meter/model as "poetry_model.h5"
+ Coompile and save model in the folder arabic-poetry-meter/app/model as "poetry_model.h5"
 
 ### 2. Create Docker container
 

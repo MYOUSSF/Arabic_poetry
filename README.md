@@ -1,6 +1,6 @@
 ### 1. Compile the model
 
- Coompile and save model in the folder arabic-poetry-meter/app/model as "poetry_model.h5"
+ Coompile and save model [Colab](https://colab.research.google.com/drive/1H8jsUztS3v22UrNvMlzVPC6m_N7JRaSZ#scrollTo=yVnnbxyUgDQ_) in the folder arabic-poetry-meter/app/model as "poetry_model.h5"
 
 ### 2. Create Docker container
 
